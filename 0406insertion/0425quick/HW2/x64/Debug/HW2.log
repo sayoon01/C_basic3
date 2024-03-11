@@ -1,0 +1,4 @@
+﻿  HW2.c
+C:\Users\윤상아\OneDrive\바탕 화면\문해기\0406insertion\0425quick\HW2\HW2.c(23,11): warning C4013: 'partition'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\윤상아\OneDrive\바탕 화면\문해기\0406insertion\0425quick\HW2\HW2.c(61,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  HW2.vcxproj -> C:\Users\윤상아\OneDrive\바탕 화면\문해기\0406insertion\0425quick\x64\Debug\HW2.exe

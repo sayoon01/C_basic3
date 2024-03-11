@@ -1,0 +1,4 @@
+﻿  LAB.c
+C:\Users\윤상아\OneDrive\바탕 화면\문해기\0301(순환)\LAB\LAB\LAB.c(48,16): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\윤상아\OneDrive\바탕 화면\문해기\0301(순환)\LAB\LAB\LAB.c(48,46): warning C4312: '형식 캐스트': 'int'에서 더 큰 'int *'(으)로의 변환입니다.
+  LAB.vcxproj -> C:\Users\윤상아\OneDrive\바탕 화면\문해기\0301(순환)\LAB\x64\Debug\LAB.exe
